@@ -5,7 +5,7 @@ const Social = () => {
     <div className="home__social">
       {}
       <a
-        href="https://www.linkedin.com/in/wasay-aamir-606b28161/"
+        href="https://www.linkedin.com/in/yousaf-jan-96b8a42a9"
         target="_blank"
         className="home__social-icon"
       >
