@@ -13,7 +13,7 @@ import Footer from "./components/footer/Footer";
 
 const App = () => {
   return (
-    <Router basename="/yousaf-portfolio">
+    <Router basename="/yousaf-portfolio">git 
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
