@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Data = () => {
   return (
@@ -62,7 +63,7 @@ const Data = () => {
       💻 Tech Innovator | Solution Seeker | Developer 🚀 | Driven by a passion for advancing technology and solving real-world problems. 💡 | Dive into my portfolio to discover projects that showcase my commitment to creating impactful, cutting-edge solutions. 🌍
       </p>
 
-      <a href="#contact" className="button button--flex">
+      <Link to="/contact" className="button button--flex">
         Say Hello
         <svg
           className="button__icon"
@@ -81,7 +82,7 @@ const Data = () => {
             fill="var(--container-color)"
           ></path>
         </svg>
-      </a>
+      </Link>
     </div>
   );
 };
