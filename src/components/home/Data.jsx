@@ -60,7 +60,7 @@ const Data = () => {
         Third Year Computer Science Student @ Ontario Tech University
       </h3>
       <p className="home__description">
-      💻 Tech Innovator | Solution Seeker | Developer 🚀 | Driven by a passion for advancing technology and solving real-world problems. 💡 | Dive into my portfolio to discover projects that showcase my commitment to creating impactful, cutting-edge solutions. 🌍
+      🚀 Problem Solver | Code Enthusiast | Developer 🔥 | Passionate about creating efficient algorithms and scalable applications. 🔧 | Always eager to learn new technologies and optimize solutions for real-world challenges. | Explore my portfolio to see projects that merge innovation, performance, and intuitive design. 🌍
       </p>
 
       <Link to="/contact" className="button button--flex">
