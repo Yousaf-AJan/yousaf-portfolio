@@ -109,7 +109,7 @@ const Qualification = () => {
                   Teaching and Learning Center at Ontario Tech University
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> September 2024 - Present
+                  <i className="uil uil-calendar-alt"></i> May 2024 - Present
                 </div>
               </div>
             </div>
@@ -123,7 +123,7 @@ const Qualification = () => {
                 Ontario Tech Computer Science Club
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> Sept 2024 - Present
+                  <i className="uil uil-calendar-alt"></i> September 2024 - Present
                 </div>
               </div>
 

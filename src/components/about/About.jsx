@@ -21,7 +21,7 @@ const About = () => {
 
           {/* Download CV Button */}
           <a
-            href="https://drive.google.com/file/d/1kMoDihNJkES7j2PA-ZAEtthFRpqvPNs9/view?usp=sharing"
+            href="https://drive.google.com/file/d/1kb9utn_eIyEd0RrLoB1HghJivRCaA9Xl/view?usp=sharing"
             className="button button--flex"
             target="_blank"
             rel="noopener noreferrer"
