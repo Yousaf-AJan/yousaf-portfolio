@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yousaf-portfolio/static/css/main.af9406fb.css",
-    "main.js": "/yousaf-portfolio/static/js/main.d279ffd9.js",
+    "main.js": "/yousaf-portfolio/static/js/main.82946a55.js",
     "static/js/488.c84241e6.chunk.js": "/yousaf-portfolio/static/js/488.c84241e6.chunk.js",
     "static/media/ChatServer.png": "/yousaf-portfolio/static/media/ChatServer.c37a9b4590ce24e96f3d.png",
     "static/media/about.jpg": "/yousaf-portfolio/static/media/about.cd9fdfbd64742be0f523.jpg",
@@ -11,11 +11,11 @@
     "static/media/FitSync.jpg": "/yousaf-portfolio/static/media/FitSync.f6fb551532dd29b3bba7.jpg",
     "index.html": "/yousaf-portfolio/index.html",
     "main.af9406fb.css.map": "/yousaf-portfolio/static/css/main.af9406fb.css.map",
-    "main.d279ffd9.js.map": "/yousaf-portfolio/static/js/main.d279ffd9.js.map",
+    "main.82946a55.js.map": "/yousaf-portfolio/static/js/main.82946a55.js.map",
     "488.c84241e6.chunk.js.map": "/yousaf-portfolio/static/js/488.c84241e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af9406fb.css",
-    "static/js/main.d279ffd9.js"
+    "static/js/main.82946a55.js"
   ]
 }
