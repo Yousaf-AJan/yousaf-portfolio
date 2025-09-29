@@ -1,36 +1,16 @@
-# My Personal Portfolio
+# React + Vite
 
-## 🚀 Portfolio Preview
-Check out my live portfolio: [Yousaf Jan's Portfolio](https://yousaf-ajan.github.io/yousaf-portfolio/)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 📌 Overview
-I'm a third-year Computer Science student at Ontario Tech University, passionate about software development, web technologies, and innovative problem-solving. This portfolio serves as a digital resume, highlighting my skills, projects, and experiences for potential employers and collaborators.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
----
+## React Compiler
 
-## 🎨 Features
-- **Aesthetic Design:** A modern and user-friendly interface with a clean layout.
-- **Responsive:** Fully optimized for various devices and screen sizes using HTML, CSS, and React.
-- **Projects:** Showcases key projects with descriptions, code repositories, and live demos.
-- **About Me:** Insights into my education, career goals, and personal interests.
-- **Contact:** Easily get in touch through provided contact details and links to my social media profiles and GitHub.
+The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
----
+## Expanding the ESLint configuration
 
-## 🛠 Technologies Used
-- **Frontend:** HTML, CSS, React.js
-- **Deployment:** GitHub Pages
-
----
-
-## 📬 Feedback and Contact
-I'm always eager to improve and grow as a software engineer. Your feedback is valuable! Feel free to reach out through the contact methods provided in the portfolio or open an issue on this GitHub repository.
-
----
-
-## 🤝 Looking to Collaborate?
-I'm actively seeking a software engineering internship opportunity for the upcoming summer. If you're interested in working with a dedicated and aspiring software engineer, don't hesitate to get in touch.
-
----
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
